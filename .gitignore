@@ -1,3 +1,4 @@
 NodeServer/config
 NodeServer/node_modules
-HTNDaemon/webscrapper/database.json
+HTNDaemon/applicationList.txt
+HTNDaemon/osVersion.txt
